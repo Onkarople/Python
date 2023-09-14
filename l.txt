@@ -1,0 +1,9 @@
+Duplicate files are : 
+C:\Users\Onkar Ople\Desktop\PythonML\fmr8.py
+C:\Users\Onkar Ople\Desktop\PythonML\Task\A.c
+C:\Users\Onkar Ople\Desktop\PythonML\Task\B.cpp
+C:\Users\Onkar Ople\Desktop\PythonML\Task\C.java
+C:\Users\Onkar Ople\Desktop\PythonML\Task\D.py
+C:\Users\Onkar Ople\Desktop\PythonML\W\a.txt
+C:\Users\Onkar Ople\Desktop\PythonML\W\A1.txt
+C:\Users\Onkar Ople\Desktop\PythonML\A\B\B2.txt

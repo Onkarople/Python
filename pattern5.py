@@ -1,0 +1,34 @@
+
+def pateern(row,col):
+    for i in range(1,col+1):
+        for j in range(1,i+1):
+            print("*",end=" ")
+        print()
+    
+    for i in range(1,col+1):
+        for j in range(1,i+1):
+            print("*",end=" ")
+        print()
+
+
+            
+        
+             
+
+
+def main():
+    print("Enter number of rows")
+    Row=int(input())
+
+    print("Enter number of coloums")
+    Col=int(input())
+
+    pateern(Row,Col)
+
+
+
+
+
+
+if __name__ == "__main__":
+    main()

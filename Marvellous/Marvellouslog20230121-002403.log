@@ -1,0 +1,105 @@
+--------------------------------------------------------------------------------
+Marvellous Indosystems Sat Jan 21 00:24:03 2023
+--------------------------------------------------------------------------------
+
+{'username': 'MSI\\Onkar Ople', 'pid': 556, 'name': 'Code.exe', 'vms': 81.92578125}
+{'username': 'MSI\\Onkar Ople', 'pid': 1480, 'name': 'chrome.exe', 'vms': 444.44921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 1860, 'name': 'svchost.exe', 'vms': 9.9609375}
+{'username': 'MSI\\Onkar Ople', 'pid': 2268, 'name': 'chrome.exe', 'vms': 21.87109375}
+{'username': 'MSI\\Onkar Ople', 'pid': 2556, 'name': 'ONLINENT.EXE', 'vms': 6.27734375}
+{'username': 'MSI\\Onkar Ople', 'pid': 2740, 'name': 'NVIDIA Share.exe', 'vms': 65.1640625}
+{'username': 'MSI\\Onkar Ople', 'pid': 3224, 'name': 'SecurityHealthSystray.exe', 'vms': 1.9765625}
+{'username': 'MSI\\Onkar Ople', 'pid': 3528, 'name': 'igfxEM.exe', 'vms': 7.63671875}
+{'username': 'MSI\\Onkar Ople', 'pid': 3716, 'name': 'msedge.exe', 'vms': 49.30859375}
+{'username': 'MSI\\Onkar Ople', 'pid': 3748, 'name': 'dllhost.exe', 'vms': 6.7578125}
+{'username': 'MSI\\Onkar Ople', 'pid': 3852, 'name': 'chrome.exe', 'vms': 2.578125}
+{'username': 'MSI\\Onkar Ople', 'pid': 3884, 'name': 'chrome.exe', 'vms': 34.609375}
+{'username': 'MSI\\Onkar Ople', 'pid': 4036, 'name': 'svchost.exe', 'vms': 7.19140625}
+{'username': 'MSI\\Onkar Ople', 'pid': 4068, 'name': 'cpptools.exe', 'vms': 20.84375}
+{'username': 'MSI\\Onkar Ople', 'pid': 4104, 'name': 'chrome.exe', 'vms': 7.93359375}
+{'username': 'MSI\\Onkar Ople', 'pid': 4264, 'name': 'svchost.exe', 'vms': 7.33984375}
+{'username': 'MSI\\Onkar Ople', 'pid': 4324, 'name': 'RuntimeBroker.exe', 'vms': 3.9609375}
+{'username': 'MSI\\Onkar Ople', 'pid': 5936, 'name': 'nvcontainer.exe', 'vms': 7.75}
+{'username': 'MSI\\Onkar Ople', 'pid': 6292, 'name': 'svchost.exe', 'vms': 4.21875}
+{'username': 'MSI\\Onkar Ople', 'pid': 6372, 'name': 'RuntimeBroker.exe', 'vms': 9.06640625}
+{'username': 'MSI\\Onkar Ople', 'pid': 6468, 'name': 'Code.exe', 'vms': 635.1875}
+{'username': 'MSI\\Onkar Ople', 'pid': 7084, 'name': 'chrome.exe', 'vms': 300.6875}
+{'username': 'MSI\\Onkar Ople', 'pid': 7252, 'name': 'Code.exe', 'vms': 20.05078125}
+{'username': 'MSI\\Onkar Ople', 'pid': 7324, 'name': 'GameBarFTServer.exe', 'vms': 3.23046875}
+{'username': 'MSI\\Onkar Ople', 'pid': 8108, 'name': 'chrome.exe', 'vms': 70.30078125}
+{'username': 'MSI\\Onkar Ople', 'pid': 8200, 'name': 'RuntimeBroker.exe', 'vms': 1.44921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 8468, 'name': 'svchost.exe', 'vms': 5.47265625}
+{'username': 'MSI\\Onkar Ople', 'pid': 8476, 'name': 'Nahimic3.exe', 'vms': 20.265625}
+{'username': 'MSI\\Onkar Ople', 'pid': 8992, 'name': 'nvcontainer.exe', 'vms': 33.6015625}
+{'username': 'MSI\\Onkar Ople', 'pid': 9280, 'name': 'NVIDIA Web Helper.exe', 'vms': 35.16015625}
+{'username': 'MSI\\Onkar Ople', 'pid': 9408, 'name': 'taskhostw.exe', 'vms': 3.00390625}
+{'username': 'MSI\\Onkar Ople', 'pid': 9436, 'name': 'IGCC.exe', 'vms': 14.67578125}
+{'username': 'MSI\\Onkar Ople', 'pid': 9612, 'name': 'RtkUWP.exe', 'vms': 10.37109375}
+{'username': 'MSI\\Onkar Ople', 'pid': 9628, 'name': 'RuntimeBroker.exe', 'vms': 9.921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 9660, 'name': 'svchost.exe', 'vms': 2.6875}
+{'username': 'MSI\\Onkar Ople', 'pid': 9676, 'name': 'NVIDIA Share.exe', 'vms': 19.6953125}
+{'username': 'MSI\\Onkar Ople', 'pid': 9872, 'name': 'Code.exe', 'vms': 40.65234375}
+{'username': 'MSI\\Onkar Ople', 'pid': 10108, 'name': 'sihost.exe', 'vms': 6.6015625}
+{'username': 'MSI\\Onkar Ople', 'pid': 10344, 'name': 'conhost.exe', 'vms': 6.50390625}
+{'username': 'MSI\\Onkar Ople', 'pid': 10440, 'name': 'Amazon Music Helper.exe', 'vms': 2.0625}
+{'username': 'MSI\\Onkar Ople', 'pid': 10544, 'name': 'utweb.exe', 'vms': 34.79296875}
+{'username': 'MSI\\Onkar Ople', 'pid': 10568, 'name': 'chrome.exe', 'vms': 17.52734375}
+{'username': 'MSI\\Onkar Ople', 'pid': 10632, 'name': 'explorer.exe', 'vms': 119.64453125}
+{'username': 'MSI\\Onkar Ople', 'pid': 11136, 'name': 'svchost.exe', 'vms': 7.76953125}
+{'username': 'MSI\\Onkar Ople', 'pid': 11480, 'name': 'NVIDIA Share.exe', 'vms': 32.140625}
+{'username': 'MSI\\Onkar Ople', 'pid': 11616, 'name': 'Widgets.exe', 'vms': 9.11328125}
+{'username': 'MSI\\Onkar Ople', 'pid': 11660, 'name': 'SearchHost.exe', 'vms': 102.6796875}
+{'username': 'MSI\\Onkar Ople', 'pid': 11708, 'name': 'StartMenuExperienceHost.exe', 'vms': 26.4765625}
+{'username': 'MSI\\Onkar Ople', 'pid': 11856, 'name': 'chrome.exe', 'vms': 16.203125}
+{'username': 'MSI\\Onkar Ople', 'pid': 11936, 'name': 'ApplicationFrameHost.exe', 'vms': 21.79296875}
+{'username': 'MSI\\Onkar Ople', 'pid': 11964, 'name': 'svchost.exe', 'vms': 1.98828125}
+{'username': 'MSI\\Onkar Ople', 'pid': 11976, 'name': 'AnyDesk.exe', 'vms': 20.7734375}
+{'username': 'MSI\\Onkar Ople', 'pid': 11992, 'name': 'TextInputHost.exe', 'vms': 15.6640625}
+{'username': 'MSI\\Onkar Ople', 'pid': 12064, 'name': 'Code.exe', 'vms': 167.05078125}
+{'username': 'MSI\\Onkar Ople', 'pid': 12072, 'name': 'RuntimeBroker.exe', 'vms': 5.9765625}
+{'username': 'MSI\\Onkar Ople', 'pid': 12192, 'name': 'conhost.exe', 'vms': 5.42578125}
+{'username': 'MSI\\Onkar Ople', 'pid': 12424, 'name': 'dllhost.exe', 'vms': 6.4296875}
+{'username': 'MSI\\Onkar Ople', 'pid': 12440, 'name': 'cmd.exe', 'vms': 2.23046875}
+{'username': 'MSI\\Onkar Ople', 'pid': 12524, 'name': 'GameBar.exe', 'vms': 20.4921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 12564, 'name': 'UserOOBEBroker.exe', 'vms': 1.9921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 12992, 'name': 'helper.exe', 'vms': 6.0}
+{'username': 'MSI\\Onkar Ople', 'pid': 13036, 'name': 'RtkAudUService64.exe', 'vms': 7.05078125}
+{'username': 'MSI\\Onkar Ople', 'pid': 13372, 'name': 'Cortana.exe', 'vms': 34.69921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 13840, 'name': 'SearchProtocolHost.exe', 'vms': 2.16796875}
+{'username': 'MSI\\Onkar Ople', 'pid': 13880, 'name': 'chrome.exe', 'vms': 18.56640625}
+{'username': 'MSI\\Onkar Ople', 'pid': 14180, 'name': 'smartscreen.exe', 'vms': 8.0234375}
+{'username': 'MSI\\Onkar Ople', 'pid': 14244, 'name': 'msedge.exe', 'vms': 2.0}
+{'username': 'MSI\\Onkar Ople', 'pid': 14292, 'name': 'conhost.exe', 'vms': 5.421875}
+{'username': 'MSI\\Onkar Ople', 'pid': 14360, 'name': 'chrome.exe', 'vms': 27.19140625}
+{'username': 'MSI\\Onkar Ople', 'pid': 14568, 'name': 'msedge.exe', 'vms': 24.9609375}
+{'username': 'MSI\\Onkar Ople', 'pid': 14580, 'name': 'msedge.exe', 'vms': 12.1875}
+{'username': 'MSI\\Onkar Ople', 'pid': 14604, 'name': 'msedge.exe', 'vms': 7.63671875}
+{'username': 'MSI\\Onkar Ople', 'pid': 14760, 'name': 'Code.exe', 'vms': 136.921875}
+{'username': 'MSI\\Onkar Ople', 'pid': 14772, 'name': 'msedge.exe', 'vms': 16.5859375}
+{'username': 'MSI\\Onkar Ople', 'pid': 14888, 'name': 'Video.UI.exe', 'vms': 17.46484375}
+{'username': 'MSI\\Onkar Ople', 'pid': 15120, 'name': 'SystemSettings.exe', 'vms': 39.3359375}
+{'username': 'MSI\\Onkar Ople', 'pid': 15160, 'name': 'msedge.exe', 'vms': 19.05859375}
+{'username': 'MSI\\Onkar Ople', 'pid': 15168, 'name': 'msedge.exe', 'vms': 77.94140625}
+{'username': 'MSI\\Onkar Ople', 'pid': 15584, 'name': 'RuntimeBroker.exe', 'vms': 4.45703125}
+{'username': 'MSI\\Onkar Ople', 'pid': 15600, 'name': 'chrome.exe', 'vms': 11.51171875}
+{'username': 'MSI\\Onkar Ople', 'pid': 15640, 'name': 'RuntimeBroker.exe', 'vms': 3.21484375}
+{'username': 'MSI\\Onkar Ople', 'pid': 15800, 'name': 'svchost.exe', 'vms': 5.8046875}
+{'username': 'MSI\\Onkar Ople', 'pid': 15808, 'name': 'chrome.exe', 'vms': 15.98828125}
+{'username': 'MSI\\Onkar Ople', 'pid': 15952, 'name': 'IAStorIcon.exe', 'vms': 34.9296875}
+{'username': 'MSI\\Onkar Ople', 'pid': 16052, 'name': 'dllhost.exe', 'vms': 1.49609375}
+{'username': 'MSI\\Onkar Ople', 'pid': 16244, 'name': 'chrome.exe', 'vms': 44.23828125}
+{'username': 'MSI\\Onkar Ople', 'pid': 16588, 'name': 'python.exe', 'vms': 23.8203125}
+{'username': 'MSI\\Onkar Ople', 'pid': 16600, 'name': 'chrome.exe', 'vms': 138.0}
+{'username': 'MSI\\Onkar Ople', 'pid': 16664, 'name': 'chrome.exe', 'vms': 19.5625}
+{'username': 'MSI\\Onkar Ople', 'pid': 16828, 'name': 'conhost.exe', 'vms': 5.28515625}
+{'username': 'MSI\\Onkar Ople', 'pid': 17344, 'name': 'chrome.exe', 'vms': 45.98046875}
+{'username': 'MSI\\Onkar Ople', 'pid': 17680, 'name': 'cpptools.exe', 'vms': 5.6796875}
+{'username': 'MSI\\Onkar Ople', 'pid': 17888, 'name': 'Code.exe', 'vms': 53.984375}
+{'username': 'MSI\\Onkar Ople', 'pid': 18756, 'name': 'python.exe', 'vms': 12.76171875}
+{'username': 'MSI\\Onkar Ople', 'pid': 18868, 'name': 'Code.exe', 'vms': 21.79296875}
+{'username': 'MSI\\Onkar Ople', 'pid': 19036, 'name': 'RuntimeBroker.exe', 'vms': 3.53125}
+{'username': 'MSI\\Onkar Ople', 'pid': 19188, 'name': 'LockApp.exe', 'vms': 13.12890625}
+{'username': 'MSI\\Onkar Ople', 'pid': 19520, 'name': 'Code.exe', 'vms': 11.90234375}
+{'username': 'MSI\\Onkar Ople', 'pid': 19632, 'name': 'Code.exe', 'vms': 10.70703125}
+{'username': 'MSI\\Onkar Ople', 'pid': 19752, 'name': 'Code.exe', 'vms': 60.28515625}
+{'username': 'MSI\\Onkar Ople', 'pid': 20340, 'name': 'Code.exe', 'vms': 76.51953125}

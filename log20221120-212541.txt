@@ -1,0 +1,3 @@
+Duplicate files are : 
+C:\Users\Onkar Ople\Desktop\PythonML\A\A2.txt
+C:\Users\Onkar Ople\Desktop\PythonML\A\B\B2.txt
