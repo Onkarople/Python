@@ -1,5 +1,6 @@
-import time
+def demo():
+    a=["1"]
+    if len(a):
+        print("hello")
 
-
-ct=round(time.time()*1000)
-print(ct)
+demo()
